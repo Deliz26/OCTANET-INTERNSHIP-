@@ -34,4 +34,4 @@ To run the ATM machine simulation, follow these steps:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone
+   git clone: https://github.com/Deliz26/OCTANET-INTERNSHIP-
